@@ -1,0 +1,12 @@
+{
+    "luzon":{
+        "t_admin_audit":[
+            "admin_id",
+            "access_mode"
+        ],
+        "t_auto_review_loan":[
+            "mobile",
+            "error_message"
+        ]
+    }
+}
